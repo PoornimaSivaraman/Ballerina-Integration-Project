@@ -1,0 +1,4 @@
+[package]
+org = "tellestiachn"
+name = "file_integration_ai_agent"
+version = "1.0.0"
