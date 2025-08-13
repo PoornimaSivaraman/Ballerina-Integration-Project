@@ -1,0 +1,4 @@
+[package]
+org = "tellestiachn"
+name = "datamapper"
+version = "1.0.0"
