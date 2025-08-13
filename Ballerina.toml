@@ -1,0 +1,9 @@
+[package]
+org = "tellestiachn"
+name = "http_integration_project"
+version = "0.1.0"
+
+[[dependencies]]
+org = "ballerina"
+name = "csv"
+version = "2.2.0"

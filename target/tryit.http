@@ -1,0 +1,21 @@
+/*
+### Try Service: 'transform' (http://localhost:9090/transform)
+
+*/
+
+/*
+#### POST /FilesType
+
+
+
+**Header Parameters:**
+- `Filename` [string] (Required)
+- `InputFileType` [string] (Required)
+- `OutputFileType` [string] (Required)
+*/
+###
+POST http://localhost:9090/transform/FilesType
+Filename: {?}
+InputFileType: {?}
+OutputFileType: {?}
+
