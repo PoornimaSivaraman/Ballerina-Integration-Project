@@ -1,4 +1,4 @@
-import ballerina/ai;
+import ballerinax/ai;
 import ballerina/http;
 
 listener ai:Listener FileIntegratorListener = new (listenOn = check http:getDefaultListener());
